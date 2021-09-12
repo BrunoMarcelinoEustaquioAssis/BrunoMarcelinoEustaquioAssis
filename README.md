@@ -26,9 +26,6 @@ Neste 1º semestre estou aprendendo sobre Modelagem de Software e Programação 
 
  ##
  
-<div> 
+  <div> 
   <a href="https://www.linkedin.com/in/bruno-marcelino-eust%C3%A1quio-de-assis-6405331b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  </div>
