@@ -10,7 +10,6 @@ Neste 1º semestre estou aprendendo sobre Modelagem de software e Programação 
  <div>
   <a href="//github.com/BrunoMEA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMEA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMEA&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ##
