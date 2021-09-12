@@ -6,6 +6,7 @@ Iniciei agora em agosto 2021 o meu curso de análise e desenvolvimento de sistem
 
 Neste 1º semestre estou aprendendo sobre Modelagem de software e Programação de soluções computacionais. 
 
+##
 
  <div>
   <a href="//github.com/BrunoMEA">
