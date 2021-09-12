@@ -2,18 +2,20 @@
 
 Eu sou Bruno Marcelino tenho 32 anos e estou em busca de uma nova carreira. 
 
-Iniciei agora em agosto 2021 o meu curso de análise e desenvolvimento de sistemas. 
+Iniciei em agosto 2021 o meu curso de Análise e Desenvolvimento de Sistemas. 
 
-Neste 1º semestre estou aprendendo sobre Modelagem de software e Programação de soluções computacionais. 
+Neste 1º semestre estou aprendendo sobre Modelagem de Software e Programação de Soluções Computacionais. 
 
 ##
 
  <div>
   <a href="//github.com/BrunoMEA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoMarcelinoEustaquioAssis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMarcelinoEustaquioAssis&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  </div>
+
+  <div>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMarcelinoEustaquioAssis&layout=compact&langs_count=7&theme=dark"/>
+  </div>
 
  ##
  
