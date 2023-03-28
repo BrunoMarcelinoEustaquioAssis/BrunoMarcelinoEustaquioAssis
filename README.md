@@ -1,6 +1,6 @@
 # Iniciando minha carreira :mortar_board:
 
-Eu sou Bruno Marcelino tenho 32 anos e estou em busca de uma nova carreira. 
+Eu sou Bruno Marcelino tenho 34 anos e estou em busca de uma nova carreira. 
 
 Iniciei em agosto 2021 o meu curso de Análise e Desenvolvimento de Sistemas. 
 
